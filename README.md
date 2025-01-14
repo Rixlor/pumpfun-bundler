@@ -28,6 +28,6 @@ I will describe the features following
 
 ## Contact Info
 
-### Telegram: [james_ybarra](https://t.me/james_ybarra)
+ Telegram: [james_ybarra](https://t.me/james_ybarra)
 
-### If you are intereseted in my projects, please 🔗fork or give me ⭐star
+ If you are intereseted in my projects, please 🔗fork or give me ⭐star
