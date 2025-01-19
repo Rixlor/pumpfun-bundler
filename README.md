@@ -11,10 +11,10 @@ I will describe the features following
  - **Sell Token**: You can sell any token on Pump.fun.
  - **Customize Token Address**: If you want you can customize token address in the prefix and suffix.
  - **Close lookup table**: Close lookup table to refund sol which is unnecessary.
- - 🚀 **Token Creation and Batch Buy** 🚀: Create token and then buy tokens instantly with multi wallets.
- - 🚀 **Batch Sell** 🚀: Sell tokens from multi wallets on Pump.fun.
- - 🚀 **Jito Service Integration** 🚀: Utilize the Jito service for efficient transaction bundling and speed optimization.
- - 🚀 **LookupTable Support** 🚀: Implement LookupTable for enhanced transaction handling and processing.
+ - **Token Creation and Batch Buy**: Create token and then buy tokens instantly with multi wallets.
+ - **Batch Sell**: Sell tokens from multi wallets on Pump.fun.
+ - **Jito Service Integration**: Utilize the Jito service for efficient transaction bundling and speed optimization.
+ - **LookupTable Support**: Implement LookupTable for enhanced transaction handling and processing.
 
 ## Demo
 
