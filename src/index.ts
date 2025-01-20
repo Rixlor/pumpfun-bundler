@@ -27,13 +27,10 @@ const main = async () => {
     const image = await openAsBlob(imagePath)
 
     const tokenMetadata = {
-        name: 'en1omy',
+        name: 'rixlor',
         symbol: 'EMY',
-        description: 'This is pump.fun token created by enlomy using customized pump fun sdk',
-        file: image,
-        twitter: 'https://x.com/en1omy',
-        telegram: 'https://t.me/enlomy',
-        website: 'https://enlomy.com',
+        description: 'This is pump.fun token created by rixlor using customized pump fun sdk',
+        file: image
     }
 
     const sdk = new PumpFunSDK(provider)
